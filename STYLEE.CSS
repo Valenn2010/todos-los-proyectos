@@ -1,0 +1,40 @@
+body{
+margin: 0;
+padding: 0;
+background-color: rgba(0, 255, 255, 0.281);
+
+}
+.wrap{
+    width: 100vw;
+    height: 25vh;
+    display: flex;
+    align-content: center;
+    
+    
+    background: url(https://img.freepik.com/foto-gratis/telon-fondo-textura-muro-hormigon-solido_53876-129493.jpg?size=626&ext=jpg);
+    
+    }
+    .wrap-texto{
+    
+    color:#fff;
+    text-align: center;
+    width: 100%;
+    
+    }
+    .TDSM{
+        width: 16vw;
+        height: 35vh;
+        display: flex;
+        align-content: center;
+        
+        
+        background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhC3-Hwm19BMg2ECMWnAaYUWo1Jelu4gbRg&usqp=CAU.jpg);
+        border-color: black;
+        border-style:dashed;
+        }
+        .TDSM-texto{
+        color:#fff;
+        text-align:center;
+        
+        
+        }
